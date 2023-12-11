@@ -8,7 +8,7 @@
 Open up a text editor of your choice and complete the following Javascript exercises.
 
 
-### Exercise #2
+### Exercise #3
 
 Write a JavaScript program to construct the following pattern, using a nested for loop.
 
@@ -20,7 +20,7 @@ Write a JavaScript program to construct the following pattern, using a nested fo
 * * * * *
 ```
 
-### Exercise #3
+### Exercise #4
 
 Write while loops to do the following:
 
